@@ -7,7 +7,7 @@ Crafted with the powerful `node-telegram-bot-api`, this bot employs a modular pl
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/ERLANRAHMAT/telebot
+   git clone https://github.com/official4jelas/telebot
    cd telebot
    ```
 
